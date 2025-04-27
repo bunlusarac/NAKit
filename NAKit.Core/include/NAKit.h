@@ -9,5 +9,3 @@
 #else
     #define LIB_API
 #endif
-
-LIB_API double Square(double);

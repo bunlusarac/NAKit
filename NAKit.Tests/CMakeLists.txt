@@ -11,7 +11,7 @@ include(GoogleTest)
 
 set(TEST_SOURCES
    src/TestMain.cpp
-   src/TestMath.cpp
+   
 )
 
 # For Windows: Prevent overriding the parent project's compiler/linker settings
